@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "AuraFlow T-Shirt",
+    "description": "Breathable, stylish cotton for everyday comfort.",
+    "price": 550,
+    "image": "1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "UrbanFlex Denim Jeans",
+    "description": "Modern fit with a touch of stretch for all-day wear.",
+    "price": 1400,
+    "image": "2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Nomad's Leather Wallet",
+    "description": "Hand-stitched genuine leather with multiple compartments.",
+    "price": 800,
+    "image": "3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Solaris Aviator Sunglasses",
+    "description": "Classic aviator style with full UV400 protection.",
+    "price": 750,
+    "image": "4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Apex Trail-Runner Shoes",
+    "description": "Lightweight, durable, and designed for maximum grip.",
+    "price": 2800,
+    "image": "5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Venture Pro Backpack",
+    "description": "Water-resistant with a padded laptop sleeve.",
+    "price": 1600,
+    "image": "6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Chrono-Classic Wrist Watch",
+    "description": "Elegant stainless steel design with quartz movement.",
+    "price": 3500,
+    "image": "7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Zenith Fleece Hoodie",
+    "description": "Ultra-soft fleece for ultimate warmth and comfort.",
+    "price": 1200,
+    "image": "8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Prestige Oxford Shirt",
+    "description": "A sharp, tailored fit for any formal occasion.",
+    "price": 1100,
+    "image": "9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Infinity Reversible Belt",
+    "description": "One belt, two colors. Crafted from genuine leather.",
+    "price": 600,
+    "image": "10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Streetwise Snapback Cap",
+    "description": "A modern cap with an adjustable snapback.",
+    "price": 450,
+    "image": "11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Comfort-Plus Socks (3-Pack)",
+    "description": "Cushioned, breathable cotton for happy feet.",
+    "price": 300,
+    "image": "12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Artisan's Ceramic Mug",
+    "description": "A beautiful, handcrafted mug for your favorite beverage.",
+    "price": 400,
+    "image": "13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "The Scribe's A5 Notebook",
+    "description": "120 pages of high-quality, fountain pen friendly paper.",
+    "price": 250,
+    "image": "14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Velocity Gel Pen",
+    "description": "Experience the smoothest writing with our quick-dry gel ink.",
+    "price": 150,
+    "image": "15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Everest Wool Scarf",
+    "description": "Stay warm with this luxuriously soft merino wool scarf.",
+    "price": 900,
+    "image": "16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Guardian Winter Gloves",
+    "description": "Insulated and touchscreen-compatible winter gloves.",
+    "price": 500,
+    "image": "17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Nimbus Windbreaker Jacket",
+    "description": "A lightweight, water-resistant and windproof jacket.",
+    "price": 2200,
+    "image": "18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Odyssey Cargo Shorts",
+    "description": "Durable cotton shorts with plenty of pocket space.",
+    "price": 850,
+    "image": "19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Driftwood Summer Sandals",
+    "description": "Ergonomic design for maximum comfort in the heat.",
+    "price": 700,
+    "image": "20.jpg"
+  }
+]
